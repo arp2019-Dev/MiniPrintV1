@@ -1,6 +1,6 @@
 Made by: @arp // Akhil Pathapati
 Repository link: https://github.com/arp2019-Dev/MiniPrintV1
-Total hours so far: 15
+Total hours so far: 18
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -14,4 +14,7 @@ Update 3:
 I should really update more often so my bad but I worked a lot on the design and I am switching to the MKS Robin Nano series for the main board and a direct drive extruder. I am also using mostly 2020 extrusion and nema17 motors, and igus linear rails for support and rigidity.
 
 Update 4: 
-Using an LDO orbiter extruder and high temp hotend to hopefully print some cool engineering filaments. I also am confrimed making a 150mm x 150mm build volume Z height is tbd but prob more than 150mm. I am cadding the main structure and how/where i want the electronics to be roughly. Ill refine as I design more.
+Using an LDO orbiter extruder and High Temp hotend to hopefully print some cool engineering filaments. I also am confirmed making a 150mm x 150mm build volume Z height is TBD but prob more than 150mm. I am cadding the main structure and how/where I want the electronics to be roughly. I'll refine it as I design more.
+
+Update 5:
+I started finding more parts like belts and pulleys as well as an ABL probe, gonna use the BTT microprobe. I'm also narrowing down my selection of motors, I will use E Series Nema 17 42Ncm motors. I also found a good PSU hopefully it doesn't blow up in my face. I also worked on more CAD to implement all the new components.
