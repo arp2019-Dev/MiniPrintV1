@@ -1,6 +1,6 @@
 Made by: @arp // Akhil Pathapati
 Repository link: https://github.com/arp2019-Dev/MiniPrintV1
-Total hours so far: 24
+Total hours so far: 28
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -21,3 +21,6 @@ I started finding more parts like belts and pulleys as well as an ABL probe, gon
 
 Update 6:
 I started adding up all the prices for parts and it's not looking good, slightly above 300 so ima switch some things up. I was thinking of doing a 180mm bed again but I want the printer to be small so that it can be focused on precision. I'm starting to work on mounts for the extruder and hot end, and the electronics bay.
+
+Update 7: 
+Currently working on an airplane very bumpy but work must be done. Decided to add another extruder for dual extrusion, One direct drive and one Bowden to keep things cheap, secure, and lightweight. Also made the frame more rigid in cad hopefully it's the same in real life. I am going to start putting all the last touches and fans soon. I also finished some of the mounts and adapters for various components 
