@@ -1,6 +1,6 @@
 Made by: @arp // Akhil Pathapati
 Repository link: https://github.com/arp2019-Dev/MiniPrintV1
-Total hours so far: 18
+Total hours so far: 24
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -18,3 +18,6 @@ Using an LDO orbiter extruder and High Temp hotend to hopefully print some cool 
 
 Update 5:
 I started finding more parts like belts and pulleys as well as an ABL probe, gonna use the BTT microprobe. I'm also narrowing down my selection of motors, I will use E Series Nema 17 42Ncm motors. I also found a good PSU hopefully it doesn't blow up in my face. I also worked on more CAD to implement all the new components.
+
+Update 6:
+I started adding up all the prices for parts and it's not looking good, slightly above 300 so ima switch some things up. I was thinking of doing a 180mm bed again but I want the printer to be small so that it can be focused on precision. I'm starting to work on mounts for the extruder and hot end, and the electronics bay.
