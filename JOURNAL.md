@@ -8,7 +8,7 @@ Update 1:
 Worked on the general outline of the printer and its basic architecture in CAD. Decided to go simple with a bedslinger design with a 180mm cubed build volume.
 
 Update 2:
-Started working on the BOM and figure out my constraints for electronics and component selection to help me figure out my design. Need to continue narrowing down options for the Mainboard and extruder. I do know I want to use Klipper so that helps.
+Started working on the BOM and figured out my constraints for electronics and component selection to help me figure out my design. Need to continue narrowing down options for the Mainboard and extruder. I do know I want to use Klipper so that helps.
 
 Update 3:
 I should really update more often so my bad but I worked a lot on the design and I am switching to the MKS Robin Nano series for the main board and a direct drive extruder. I am also using mostly 2020 extrusion and nema17 motors, and igus linear rails for support and rigidity.
@@ -23,4 +23,7 @@ Update 6:
 I started adding up all the prices for parts and it's not looking good, slightly above 300 so ima switch some things up. I was thinking of doing a 180mm bed again but I want the printer to be small so that it can be focused on precision. I'm starting to work on mounts for the extruder and hot end, and the electronics bay.
 
 Update 7: 
-Currently working on an airplane very bumpy but work must be done. Decided to add another extruder for dual extrusion, One direct drive and one Bowden to keep things cheap, secure, and lightweight. Also made the frame more rigid in cad hopefully it's the same in real life. I am going to start putting all the last touches and fans soon. I also finished some of the mounts and adapters for various components 
+Currently working on an airplane very bumpy but work must be done. Decided to add another extruder for dual extrusion, One direct drive and one Bowden to keep things cheap, secure, and lightweight. Also made the frame more rigid in CAD hopefully it's the same in real life. I am going to start putting all the last touches and fans soon. I also finished some of the mounts and adapters for various components 
+
+Update 8:
+Changed again, I am after all going with a 180mm bed since 150 is comically small, also did not use the LDO orbiter extruder and instead found a better one for a lower price. Hopefully, my cad doesn't die when I try to increase the size. I also need to figure out how I want to implement the Y-axis belt system since I want to make it look nice and not bulky with those long tensioners.
